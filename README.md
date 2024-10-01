@@ -81,11 +81,6 @@ It's creating a _requirements.txt_ from the _environment.yml_
 ```sh
 python requirements.py
 ```
-
-### Download Dataset
-```sh
-wget https://www.meronimo.de/thesis/wiki_movie_plots.csv -O ./data/wiki_movie_plots.csv
-```
 ### Qdrant
 
 Start docker container
