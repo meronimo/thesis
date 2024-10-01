@@ -1,0 +1,32 @@
+name: thesis_llm
+channels:
+  - nvidia
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.11
+  - conda-forge::streamlit==1.35.0
+  # Cuda Support
+  #- pytorch::pytorch==2.3.1
+  #- pytorch::torchvision==0.18.1
+  #- pytorch::torchaudio== 2.3.1
+  #- pytorch::pytorch-cuda==12.1
+  - pip:
+      # General
+      # for .ipynb files
+      - jupyter==1.0.0
+      - matplotlib==3.7.5
+      - pandas==2.0.3
+      - numpy==1.24.4
+      - seaborn==0.13.2
+      # for front-end
+      - python-dotenv==1.0.1
+      # Llama related
+      - chromadb==0.5.0
+      - llama-index==0.10.44
+      - llama-index-core==0.10.44
+      - llama-index-llms-ollama==0.1.5
+      - llama-index-vector-stores-chroma==0.1.9
+      - llama-index-embeddings-huggingface==0.2.1
+      - llama-index-vector-stores-qdrant==0.1.3

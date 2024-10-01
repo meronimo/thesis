@@ -1,0 +1,567 @@
+
+--------------------------------------------------
+Iteration: 0
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a Movie Expert. Keep your responses simple. Structure your output in a way that is easy to read and understand.
+Query: Who is revealed to be the Second Coming of Jesus Christ in the movie "The Seventh Sign"?
+Response: According to the plot, David Bannon, the mysterious traveler, is actually the Second Coming of Jesus Christ.
+
+
+--------------------------------------------------
+Iteration: 1
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a Video Librarian you want to recommend movies to others. But you don't want to spoil. Be kind and don't give away too much. Keep your responses simple and to the point.Talk about the movie's genre, plot, and main characters to arouse the interest of the user 
+Query: Who is revealed to be the Second Coming of Jesus Christ in the movie "The Seventh Sign"?
+Response: According to the plot, David Bannon, the mysterious traveler who rents a room from Abby Quinn (Demi Moore), is actually the Second Coming of Jesus Christ.
+
+
+--------------------------------------------------
+Iteration: 2
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are very knowledgeable about movies. You want to share your knowledge with others. Provide detailed information about the movie's genre, plot, and main characters. Use bullet points, lists, and other formatting to make your responses more readable.Take all the Context and ask if the user wants to know more about the movie.
+Query: Who is revealed to be the Second Coming of Jesus Christ in the movie "The Seventh Sign"?
+Response: According to the plot, David Bannon, the mysterious traveler who rents a room from Abby Quinn (Demi Moore), is actually the Second Coming of Jesus Christ.
+
+
+--------------------------------------------------
+Iteration: 3
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a movie expert. Your primary responsibility is to assist users in discovering and learning about films. You will have context with information about the movie. Use this information to provide detailed, accurate, and engaging information about the movie. Work with bullet points, lists, and other formatting to make your responses more readable.Talk about the movie's genre, plot, and main characters to arouse the interest of the user.If there is nothing given in the Context then please under any circumstances do not provide any information. Arouse the interest of the user and ask if they want to know more about the movie.
+Query: Who is revealed to be the Second Coming of Jesus Christ in the movie "The Seventh Sign"?
+Response: According to the plot information, David Bannon, who is played by J�rgen Prochnow, is revealed to be the Second Coming of Jesus Christ.
+
+
+--------------------------------------------------
+Iteration: 4
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a recommender. The User want to Discover Movies or Films. Use provided Context. Structure your Output (bullet-points). Arouse the users interest. Don't Spoil. Ask if user want to now more.
+Query: Who is revealed to be the Second Coming of Jesus Christ in the movie "The Seventh Sign"?
+Response: According to the plot information, David Bannon, who is played by J�rgen Prochnow, is revealed to be the Second Coming of Jesus Christ.
+
+
+--------------------------------------------------
+Iteration: 0
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a Movie Expert. Keep your responses simple. Structure your output in a way that is easy to read and understand.
+Query: What inspired the band's name change to "The Four Seasons" in the film?
+Response: There is no band involved in this film. The title "The Four Seasons" refers to the plot of the movie, which revolves around three married couples living in New York City who take vacations together during each of the four seasons (Spring, Summer, Fall, and Winter). The title is a metaphor for the changing relationships and dynamics between the characters throughout the story.
+
+
+--------------------------------------------------
+Iteration: 1
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a Video Librarian you want to recommend movies to others. But you don't want to spoil. Be kind and don't give away too much. Keep your responses simple and to the point.Talk about the movie's genre, plot, and main characters to arouse the interest of the user 
+Query: What inspired the band's name change to "The Four Seasons" in the film?
+Response: There is no band involved in this film. The title "The Four Seasons" refers to the plot of the movie, which revolves around three married couples living in New York City who take vacations together during each of the four seasons (Spring, Summer, Fall, and Winter). The title is a metaphor for the changing relationships and dynamics between the characters throughout the story.
+
+
+--------------------------------------------------
+Iteration: 2
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are very knowledgeable about movies. You want to share your knowledge with others. Provide detailed information about the movie's genre, plot, and main characters. Use bullet points, lists, and other formatting to make your responses more readable.Take all the Context and ask if the user wants to know more about the movie.
+Query: What inspired the band's name change to "The Four Seasons" in the film?
+Response: There is no band involved in this film. The title "The Four Seasons" refers to the plot of the movie, which revolves around three married couples living in New York City who take vacations together during each of the four seasons (Spring, Summer, Fall, and Winter). The title is likely inspired by the idea that the story explores the ups and downs of relationships over the course of a year, much like the changing seasons.
+
+
+--------------------------------------------------
+Iteration: 3
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a movie expert. Your primary responsibility is to assist users in discovering and learning about films. You will have context with information about the movie. Use this information to provide detailed, accurate, and engaging information about the movie. Work with bullet points, lists, and other formatting to make your responses more readable.Talk about the movie's genre, plot, and main characters to arouse the interest of the user.If there is nothing given in the Context then please under any circumstances do not provide any information. Arouse the interest of the user and ask if they want to know more about the movie.
+Query: What inspired the band's name change to "The Four Seasons" in the film?
+Response: There is no band involved in this film. The title "The Four Seasons" refers to the plot of the movie, which revolves around three married couples living in New York City who take vacations together during each of the four seasons (Spring, Summer, Fall, and Winter). The title is likely inspired by the idea that the story takes place over the course of a year, with each season representing a significant event or turning point in the characters' lives.
+
+
+--------------------------------------------------
+Iteration: 4
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a recommender. The User want to Discover Movies or Films. Use provided Context. Structure your Output (bullet-points). Arouse the users interest. Don't Spoil. Ask if user want to now more.
+Query: What inspired the band's name change to "The Four Seasons" in the film?
+Response: There is no band involved in this film. The title "The Four Seasons" refers to the plot of the movie, which revolves around three married couples taking vacations together during each of the four seasons (Spring, Summer, Fall, and Winter). The title is likely inspired by the idea that the story explores the ups and downs of relationships over the course of a year, much like the changing seasons.
+
+
+--------------------------------------------------
+Iteration: 0
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a Movie Expert. Keep your responses simple. Structure your output in a way that is easy to read and understand.
+Query: What is the twist revealed about Screwface and his twin brother?
+Response: There is no mention of Screwface or a twin brother in the provided context information or plot summary. The story appears to be about an alien, known as "The Brother", who escapes enslavement on his home planet and finds himself in modern-day New York City, struggling to adjust to his new surroundings and evade capture by two Men in Black.
+
+
+--------------------------------------------------
+Iteration: 1
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a Video Librarian you want to recommend movies to others. But you don't want to spoil. Be kind and don't give away too much. Keep your responses simple and to the point.Talk about the movie's genre, plot, and main characters to arouse the interest of the user 
+Query: What is the twist revealed about Screwface and his twin brother?
+Response: There is no mention of Screwface or a twin brother in the provided context information or plot summary. The story appears to be about an alien, known as "The Brother", who escapes enslavement on his home planet and finds himself in modern-day New York City, struggling to adjust to his new surroundings and evade capture by two Men in Black.
+
+
+--------------------------------------------------
+Iteration: 2
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are very knowledgeable about movies. You want to share your knowledge with others. Provide detailed information about the movie's genre, plot, and main characters. Use bullet points, lists, and other formatting to make your responses more readable.Take all the Context and ask if the user wants to know more about the movie.
+Query: What is the twist revealed about Screwface and his twin brother?
+Response: There is no mention of Screwface or a twin brother in the provided context information or plot summary. The story appears to be about an alien, known as "The Brother", who escapes enslavement on his home planet and finds himself in modern-day New York City, struggling to adjust to his new surroundings and evade capture by two Men in Black.
+
+
+--------------------------------------------------
+Iteration: 3
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a movie expert. Your primary responsibility is to assist users in discovering and learning about films. You will have context with information about the movie. Use this information to provide detailed, accurate, and engaging information about the movie. Work with bullet points, lists, and other formatting to make your responses more readable.Talk about the movie's genre, plot, and main characters to arouse the interest of the user.If there is nothing given in the Context then please under any circumstances do not provide any information. Arouse the interest of the user and ask if they want to know more about the movie.
+Query: What is the twist revealed about Screwface and his twin brother?
+Response: There is no mention of Screwface or a twin brother in the provided context information or plot summary. The story appears to be about an alien, known as "The Brother", who escapes enslavement on his home planet and finds himself in modern-day New York City, struggling to adjust to his new surroundings and evade capture by two Men in Black.
+
+
+--------------------------------------------------
+Iteration: 4
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a recommender. The User want to Discover Movies or Films. Use provided Context. Structure your Output (bullet-points). Arouse the users interest. Don't Spoil. Ask if user want to now more.
+Query: What is the twist revealed about Screwface and his twin brother?
+Response: There is no mention of Screwface or a twin brother in the provided context information or plot summary. The story appears to be about an alien, known as "The Brother", who escapes enslavement on his home planet and finds himself in modern-day New York City, struggling to adjust to his new surroundings and evade capture by two Men in Black.
+
+
+--------------------------------------------------
+Iteration: 0
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a Movie Expert. Keep your responses simple. Structure your output in a way that is easy to read and understand.
+Query: Who are the main characters in "Rainbow Brite and the Star Stealer"?
+Response: The main characters in "Rainbow Brite and the Star Stealer" are:
+
+1. Rainbow Brite (voiced by Bettina Bush) - a magical girl who brings color and joy to the world.
+2. Starlite (voiced by Andre Stojka) - Rainbow's horse, who has magical powers.
+3. Brian (voiced by Scott Menville) - a boy on Earth who can see Rainbow and her friends.
+4. Stormy (voiced by Marissa Mendenhall) - a magical girl who controls Winter with her horse, Skydancer.
+5. Krys (voiced by David Mendenhall) - a boy from Spectra who helps Rainbow stop the Dark Princess's plan.
+
+These characters play important roles in the story and help drive the plot forward.
+
+
+--------------------------------------------------
+Iteration: 1
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a Video Librarian you want to recommend movies to others. But you don't want to spoil. Be kind and don't give away too much. Keep your responses simple and to the point.Talk about the movie's genre, plot, and main characters to arouse the interest of the user 
+Query: Who are the main characters in "Rainbow Brite and the Star Stealer"?
+Response: The main characters in "Rainbow Brite and the Star Stealer" are:
+
+1. Rainbow Brite (voiced by Bettina Bush) - a magical girl who brings color and joy to the world.
+2. Starlite (voiced by Andre Stojka) - Rainbow's horse, who has magical powers.
+3. Brian (voiced by Scott Menville) - a boy on Earth who can see Rainbow and her friends.
+4. Stormy (voiced by Marissa Mendenhall) - a magical girl who controls Winter with her horse, Skydancer.
+5. Krys (voiced by David Mendenhall) - a boy from Spectra who helps Rainbow stop the Dark Princess's plan.
+
+These characters play important roles in the story and help drive the plot forward.
+
+
+--------------------------------------------------
+Iteration: 2
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are very knowledgeable about movies. You want to share your knowledge with others. Provide detailed information about the movie's genre, plot, and main characters. Use bullet points, lists, and other formatting to make your responses more readable.Take all the Context and ask if the user wants to know more about the movie.
+Query: Who are the main characters in "Rainbow Brite and the Star Stealer"?
+Response: The main characters in "Rainbow Brite and the Star Stealer" are:
+
+1. Rainbow Brite (voiced by Bettina Bush)
+2. Starlite (voiced by Andre Stojka) - Rainbow's magical horse
+3. Stormy (voiced by Marissa Mendenhall) - a magical girl who controls Winter with her horse, Skydancer (voiced by Peter Cullen)
+4. Brian (voiced by Scott Menville) - the only boy on Earth who can "see" Rainbow and Starlite
+5. On-X (voiced by Pat Fraley) - a robotic horse with rockets for legs
+6. Krys (voiced by David Mendenhall) - a boy from Spectra who helps Rainbow and Starlite stop the Dark Princess's plan
+7. The Dark Princess (voiced by Rhonda Aldrich) - a selfish princess who wants to steal Spectra, "the greatest diamond in all the universe"
+8. Murky Dismal (voiced by Peter Cullen) - a sinister character who tries to steal Rainbow's magical color belt and cause trouble for her
+9. Lurky (voiced by Pat Fraley) - Murky's bumbling assistant
+
+
+--------------------------------------------------
+Iteration: 3
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a movie expert. Your primary responsibility is to assist users in discovering and learning about films. You will have context with information about the movie. Use this information to provide detailed, accurate, and engaging information about the movie. Work with bullet points, lists, and other formatting to make your responses more readable.Talk about the movie's genre, plot, and main characters to arouse the interest of the user.If there is nothing given in the Context then please under any circumstances do not provide any information. Arouse the interest of the user and ask if they want to know more about the movie.
+Query: Who are the main characters in "Rainbow Brite and the Star Stealer"?
+Response: The main characters in "Rainbow Brite and the Star Stealer" are:
+
+1. Rainbow Brite (voiced by Bettina Bush)
+2. Starlite (voiced by Andre Stojka) - Rainbow's magical horse
+3. Stormy (voiced by Marissa Mendenhall) - a magical girl who controls Winter with her horse, Skydancer (voiced by Peter Cullen)
+4. Brian (voiced by Scott Menville) - the only boy on Earth who can "see" Rainbow and Starlite
+5. On-X (voiced by Pat Fraley) - a robotic horse with rockets for legs
+6. Krys (voiced by David Mendenhall) - a boy from Spectra who helps Rainbow and Starlite stop the Dark Princess's plan
+7. The Dark Princess (voiced by Rhonda Aldrich) - a selfish princess who wants to steal Spectra, "the greatest diamond in all the universe"
+8. Murky Dismal (voiced by Peter Cullen) - a sinister character who tries to steal Rainbow's magical color belt and cause trouble for her
+9. Lurky (voiced by Pat Fraley) - Murky's bumbling assistant
+
+
+--------------------------------------------------
+Iteration: 4
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a recommender. The User want to Discover Movies or Films. Use provided Context. Structure your Output (bullet-points). Arouse the users interest. Don't Spoil. Ask if user want to now more.
+Query: Who are the main characters in "Rainbow Brite and the Star Stealer"?
+Response: The main characters in "Rainbow Brite and the Star Stealer" are:
+
+1. Rainbow Brite (voiced by Bettina Bush) - a magical girl who brings color and joy to the world.
+2. Starlite (voiced by Andre Stojka) - Rainbow's horse companion.
+3. Stormy (voiced by Marissa Mendenhall) - a magical girl who controls Winter with her horse, Skydancer.
+4. Brian (voiced by Scott Menville) - an Earth boy who can see and communicate with Rainbow and Starlite.
+5. On-X (voiced by Pat Fraley) - a robotic horse that helps Rainbow on her mission.
+6. Krys (voiced by David Mendenhall) - a boy from Spectra who helps Rainbow stop the Dark Princess's plan.
+7. The Dark Princess (voiced by Rhonda Aldrich) - the main antagonist of the movie, who wants to steal Spectra for herself.
+
+These characters drive the plot and story of "Rainbow Brite and the Star Stealer".
+
+
+--------------------------------------------------
+Iteration: 0
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a Movie Expert. Keep your responses simple. Structure your output in a way that is easy to read and understand.
+Query: What personal struggle does Juror 3 face that influences his final decision?
+Response: Juror 3 faces a personal struggle related to his own experience with his son. He has a strained relationship with his son, and the idea of a son killing his father is deeply disturbing to him. This emotional connection makes it difficult for him to consider the possibility of the defendant's guilt, and he begins to weep as he imagines himself being stabbed by his own son. Ultimately, Juror 3's personal struggle leads him to change his vote and join the majority in finding the defendant not guilty.
+
+
+--------------------------------------------------
+Iteration: 1
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a Video Librarian you want to recommend movies to others. But you don't want to spoil. Be kind and don't give away too much. Keep your responses simple and to the point.Talk about the movie's genre, plot, and main characters to arouse the interest of the user 
+Query: What personal struggle does Juror 3 face that influences his final decision?
+Response: Juror 3 faces a personal struggle related to his own experience with his son. He has a strained relationship with his son, and the idea of a son killing his father is deeply disturbing to him. This emotional connection makes it difficult for him to consider the possibility of the defendant being innocent, as it forces him to confront his own feelings about his own son.
+
+Throughout the deliberation process, Juror 3's emotions are stirred by the discussion of the case, and he becomes increasingly agitated and tearful. He finally gives in and changes his vote to "not guilty" when Juror 8 points out that the defendant is not his son, and Juror 4 offers him comfort.
+
+Juror 3's personal struggle serves as a poignant reminder of how our own experiences and emotions can influence our judgments and decisions, even in situations where we may think we are being objective.
+
+
+--------------------------------------------------
+Iteration: 2
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are very knowledgeable about movies. You want to share your knowledge with others. Provide detailed information about the movie's genre, plot, and main characters. Use bullet points, lists, and other formatting to make your responses more readable.Take all the Context and ask if the user wants to know more about the movie.
+Query: What personal struggle does Juror 3 face that influences his final decision?
+Response: Juror 3 faces a personal struggle related to his own experience with his son. He has a strained relationship with his son, and the idea of a son killing his father is deeply disturbing to him. This emotional connection makes it difficult for him to consider the possibility of the defendant being innocent, as it forces him to confront his own feelings about his own son.
+
+Throughout the deliberation process, Juror 3's emotions are stirred up by the discussion of the case, and he becomes increasingly agitated and tearful. He finally gives in and changes his vote to "not guilty" when Juror 8 points out that the defendant is not his son, and Juror 4 offers him comfort.
+
+Juror 3's personal struggle serves as a reminder that our emotions and experiences can influence our judgments and decisions, even if we try to separate them from the facts of a case.
+
+
+--------------------------------------------------
+Iteration: 3
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a movie expert. Your primary responsibility is to assist users in discovering and learning about films. You will have context with information about the movie. Use this information to provide detailed, accurate, and engaging information about the movie. Work with bullet points, lists, and other formatting to make your responses more readable.Talk about the movie's genre, plot, and main characters to arouse the interest of the user.If there is nothing given in the Context then please under any circumstances do not provide any information. Arouse the interest of the user and ask if they want to know more about the movie.
+Query: What personal struggle does Juror 3 face that influences his final decision?
+Response: Juror 3 faces a personal struggle related to his own experience with his son. He has a strained relationship with his son, and the idea of a son killing his father is deeply disturbing to him. This emotional connection makes it difficult for him to consider the possibility of the defendant being innocent, as it forces him to confront his own feelings about his own son.
+
+Throughout the deliberation process, Juror 3's emotions are stirred by the discussion of the case, and he becomes increasingly agitated and tearful. He finally gives in and changes his vote to "not guilty" when Juror 8 points out that the defendant is not his son, and Juror 4 offers him comfort.
+
+Juror 3's personal struggle serves as a poignant reminder of how our own experiences and emotions can influence our judgments and decisions, even in situations where we may think we are being objective.
+
+
+--------------------------------------------------
+Iteration: 4
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a recommender. The User want to Discover Movies or Films. Use provided Context. Structure your Output (bullet-points). Arouse the users interest. Don't Spoil. Ask if user want to now more.
+Query: What personal struggle does Juror 3 face that influences his final decision?
+Response: Juror 3 faces a personal struggle related to his own experience with his son. He has a bad relationship with his son, and the idea of a son killing his father is deeply disturbing to him. This emotional connection makes it difficult for him to consider the possibility of the defendant being innocent, as it forces him to confront his own feelings about his own son. Ultimately, Juror 3's personal struggle leads him to change his vote and join the majority in finding the defendant not guilty.
+
+
+--------------------------------------------------
+Iteration: 0
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a Movie Expert. Keep your responses simple. Structure your output in a way that is easy to read and understand.
+Query: Recommend an action movie
+Response: I'd be happy to recommend an action movie!
+
+Based on your interest in "The Expendables" (2010), I think you might enjoy another action-packed film with a similar tone and style. Here's a recommendation:
+
+**Movie:** "Commando" (1985)
+
+**Starring:** Arnold Schwarzenegger, Rae Dawn Chong, Dan Hedaya
+
+**Genre:** Action, Adventure
+
+**Plot:** John Matrix (Schwarzenegger), a retired special forces operative, is forced back into action when his daughter is kidnapped by a group of mercenaries. He must use his combat skills to rescue her and take down the villains.
+
+Why I think you'll like it:
+
+1. Like "The Expendables," "Commando" features over-the-top action sequences, including hand-to-hand combat, gunfights, and explosive set pieces.
+2. Arnold Schwarzenegger is at the top of his game in this film, delivering a memorable performance as the tough-as-nails John Matrix.
+3. The movie has a similar blend of humor, camaraderie, and intense action that made "The Expendables" so enjoyable.
+
+Give it a try!
+
+
+--------------------------------------------------
+Iteration: 1
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a Video Librarian you want to recommend movies to others. But you don't want to spoil. Be kind and don't give away too much. Keep your responses simple and to the point.Talk about the movie's genre, plot, and main characters to arouse the interest of the user 
+Query: Recommend an action movie
+Response: Based on your interest in "The Expendables", I'd recommend another action-packed film that features a similar blend of explosive action, memorable characters, and over-the-top stunts. Here's a suggestion:
+
+**"Commando" (1985)**
+
+Starring Arnold Schwarzenegger as John Matrix, a retired special forces operative who must rescue his daughter from a group of mercenaries in South America.
+
+This classic 80s action film is known for its non-stop action sequences, memorable one-liners, and Schwarzenegger's signature charm. If you enjoy the camaraderie and banter between characters in "The Expendables", you'll appreciate the similar dynamic between Matrix and his daughter in "Commando".
+
+Give it a try!
+
+
+--------------------------------------------------
+Iteration: 2
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are very knowledgeable about movies. You want to share your knowledge with others. Provide detailed information about the movie's genre, plot, and main characters. Use bullet points, lists, and other formatting to make your responses more readable.Take all the Context and ask if the user wants to know more about the movie.
+Query: Recommend an action movie
+Response: Based on your interest in "The Expendables", I'd recommend another action-packed film that features a similar blend of explosive action, memorable characters, and over-the-top stunts. Here's a suggestion:
+
+**Movie:** "Commando" (1985)
+
+**Starring:** Arnold Schwarzenegger, Rae Dawn Chong, Dan Hedaya
+
+**Plot:** John Matrix (Schwarzenegger), a retired special forces operative, is forced back into action when his daughter is kidnapped by a group of mercenaries. With his trusty machine gun and a few well-placed one-liners, Matrix takes on the bad guys in a series of intense battles.
+
+**Why I think you'll like it:**
+
+1. Like "The Expendables", "Commando" features a charismatic action hero (Schwarzenegger) who's not afraid to get his hands dirty.
+2. The film has a similar blend of humor, over-the-top action, and memorable one-liners that have become Schwarzenegger's signature style.
+3. The movie's pacing is fast-paced and relentless, with plenty of intense action sequences and clever stunts.
+
+**Give it a try!**
+
+Let me know if you've seen "Commando" before or if you'd like more recommendations based on your preferences!
+
+
+--------------------------------------------------
+Iteration: 3
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a movie expert. Your primary responsibility is to assist users in discovering and learning about films. You will have context with information about the movie. Use this information to provide detailed, accurate, and engaging information about the movie. Work with bullet points, lists, and other formatting to make your responses more readable.Talk about the movie's genre, plot, and main characters to arouse the interest of the user.If there is nothing given in the Context then please under any circumstances do not provide any information. Arouse the interest of the user and ask if they want to know more about the movie.
+Query: Recommend an action movie
+Response: I'd be happy to recommend an action movie!
+
+Based on your interest in "The Expendables" (2010), I think you might enjoy another high-octane, adrenaline-fueled film with a similar tone and style. Here's a recommendation:
+
+**Movie:** "Commando" (1985)
+
+**Starring:** Arnold Schwarzenegger
+
+**Genre:** Action, Thriller
+
+**Plot:** John Matrix (Schwarzenegger), a retired special forces operative, is forced back into action when his daughter is kidnapped by a group of mercenaries. With his trusty machine gun and a few well-placed one-liners, Matrix takes on the bad guys in a non-stop, explosive battle to rescue his daughter.
+
+**Why I think you'll like it:**
+
+1. Like "The Expendables," "Commando" is an over-the-top action film with plenty of intense fight scenes, explosions, and memorable one-liners.
+2. Schwarzenegger's iconic performance as John Matrix is a major highlight, showcasing his signature blend of humor, charm, and physical prowess.
+3. The movie's 80s nostalgia factor is strong, with its retro setting, fashion, and music adding to the film's nostalgic appeal.
+
+Give "Commando" a try if you're in the mood for some classic action entertainment!
+
+
+--------------------------------------------------
+Iteration: 4
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a recommender. The User want to Discover Movies or Films. Use provided Context. Structure your Output (bullet-points). Arouse the users interest. Don't Spoil. Ask if user want to now more.
+Query: Recommend an action movie
+Response: Based on your interest in "The Expendables", I'd recommend another action-packed film that features a similar blend of explosive action, memorable characters, and over-the-top stunts. Here's a suggestion:
+
+**Movie:** "Commando" (1985)
+
+**Starring:** Arnold Schwarzenegger, Rae Dawn Chong, Dan Hedaya
+
+**Plot:** John Matrix (Schwarzenegger), a retired special forces operative, is forced back into action when his daughter is kidnapped by a group of mercenaries. With his trusty machine gun and a few well-placed one-liners, Matrix takes on the bad guys in a series of intense battles.
+
+**Why I think you'll like it:**
+
+1. **Non-stop action**: "Commando" delivers non-stop action from start to finish, with Schwarzenegger's iconic character taking down bad guys left and right.
+2. **Memorable villain**: The film features a memorable villain in Dan Hedaya's performance as Arius, the ruthless mercenary leader who kidnaps Matrix's daughter.
+3. **Over-the-top stunts**: "Commando" is known for its over-the-top stunts, including Schwarzenegger's signature one-liners and impressive feats of physicality.
+
+**Give it a try!**
+
+Let me know if you've seen "Commando" before or if you'd like more recommendations.
+
+
+--------------------------------------------------
+Iteration: 0
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a Movie Expert. Keep your responses simple. Structure your output in a way that is easy to read and understand.
+Query: I want to watch a movie with fast cars and explosions
+Response: Sounds like you're in the mood for some high-octane action! Based on your request, I'd recommend the following movies that feature fast cars and explosive action:
+
+1. **The Fast and the Furious** (2001) - This iconic franchise has it all: street racing, heists, and plenty of adrenaline-fueled chases.
+2. **Need for Speed** (2014) - Based on the popular video game series, this movie features high-stakes racing, car chases, and a dash of action.
+3. **Fast & Furious 6** (2013) - The sixth installment in the franchise brings back Dominic Toretto (Vin Diesel) and his crew for more high-octane action and stunts.
+4. **The Bourne Supremacy** (2004) - While not strictly a car movie, this Jason Bourne film features intense chases and hand-to-hand combat.
+5. **Turbulence** (1997) - This action-comedy stars Ray Liotta as a convict who takes control of an airliner and leads the authorities on a wild goose chase.
+
+If you're looking for something more recent, I'd suggest:
+
+1. **F9: The Fast Saga** (2021) - The latest installment in the Fast franchise brings back Dom and his crew for even more high-stakes action.
+2. **Hobbs & Shaw** (2019) - This spin-off from the Fast franchise stars Dwayne "The Rock" Johnson as Luke Hobbs, a tough-as-nails lawman who teams up with Deckard Shaw (Jason Statham) to take down a genetically enhanced villain.
+
+Which one of these movies catches your eye?
+
+
+--------------------------------------------------
+Iteration: 1
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a Video Librarian you want to recommend movies to others. But you don't want to spoil. Be kind and don't give away too much. Keep your responses simple and to the point.Talk about the movie's genre, plot, and main characters to arouse the interest of the user 
+Query: I want to watch a movie with fast cars and explosions
+Response: Sounds like you're in the mood for some high-octane action!
+
+Based on your request, I'd recommend the following movies that feature fast cars and explosive action:
+
+1. **The Fast and the Furious** (2001) - This iconic franchise has it all: street racing, heists, and plenty of adrenaline-fueled chases.
+2. **Need for Speed** (2014) - An action-packed movie based on the popular video game series, featuring high-speed car chases and intense racing sequences.
+3. **Fast & Furious 6** (2013) - The sixth installment in the Fast and Furious franchise brings even more explosive action, including a thrilling highway chase.
+4. **The Italian Job** (2003) - A fun, lighthearted heist movie with plenty of clever car chases and witty banter.
+5. **Turbulence** (1997) - An action-comedy starring Ray Liotta as a pilot who must outrun a group of hijackers in a high-stakes game of cat-and-mouse.
+
+Which one of these movies catches your eye?
+
+
+--------------------------------------------------
+Iteration: 2
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are very knowledgeable about movies. You want to share your knowledge with others. Provide detailed information about the movie's genre, plot, and main characters. Use bullet points, lists, and other formatting to make your responses more readable.Take all the Context and ask if the user wants to know more about the movie.
+Query: I want to watch a movie with fast cars and explosions
+Response: Sounds like you're in the mood for some high-octane action!
+
+Based on your request, I'd recommend the following movies that feature fast cars and explosive action:
+
+1. **The Fast and the Furious** (2001) - This iconic franchise has it all: street racing, heists, and plenty of adrenaline-fueled chases.
+2. **Need for Speed** (2014) - An action-packed movie based on the popular video game series, featuring high-speed car chases and intense racing sequences.
+3. **Fast & Furious 6** (2013) - The sixth installment in the Fast and Furious franchise brings even more explosive action, including a thrilling highway chase.
+4. **The Italian Job** (2001) - A fun, lighthearted heist movie with plenty of clever car chases and witty banter.
+5. **Turbine** (2013) - An action-packed thriller about a group of mercenaries who must use their driving skills to survive in a high-stakes game.
+
+Which one of these movies catches your eye?
+
+
+--------------------------------------------------
+Iteration: 3
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a movie expert. Your primary responsibility is to assist users in discovering and learning about films. You will have context with information about the movie. Use this information to provide detailed, accurate, and engaging information about the movie. Work with bullet points, lists, and other formatting to make your responses more readable.Talk about the movie's genre, plot, and main characters to arouse the interest of the user.If there is nothing given in the Context then please under any circumstances do not provide any information. Arouse the interest of the user and ask if they want to know more about the movie.
+Query: I want to watch a movie with fast cars and explosions
+Response: Sounds like you're in the mood for some high-octane action!
+
+Based on your request, I'd recommend the following movies that feature fast cars and explosive action:
+
+1. **The Fast and the Furious** (2001) - This iconic franchise has it all: street racing, heists, and plenty of adrenaline-fueled chases.
+2. **Need for Speed** (2014) - An action-packed movie based on the popular video game series, featuring high-speed car chases and intense racing sequences.
+3. **Fast & Furious 6** (2013) - The sixth installment in the Fast and Furious franchise brings back Dom Toretto (Vin Diesel) and his crew for more high-stakes heists and explosive action.
+4. **The Bourne Supremacy** (2004) - While not strictly a car movie, this Jason Bourne film features intense chases through the streets of Moscow and other locations.
+5. **Turbulence** (1997) - A lesser-known but still exciting movie about a group of skydivers who must survive a series of high-stakes jumps while being pursued by a villainous gang.
+
+Which one of these movies catches your eye?
+
+
+--------------------------------------------------
+Iteration: 4
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a recommender. The User want to Discover Movies or Films. Use provided Context. Structure your Output (bullet-points). Arouse the users interest. Don't Spoil. Ask if user want to now more.
+Query: I want to watch a movie with fast cars and explosions
+Response: Sounds like you're in the mood for some high-octane action!
+
+Based on your request, I'd recommend the following movies that feature fast cars and explosive action:
+
+1. **The Fast and the Furious** (2001) - This iconic franchise has it all: street racing, heists, and plenty of adrenaline-fueled chases.
+2. **Need for Speed** (2014) - Based on the popular video game series, this movie delivers high-speed racing, intense action sequences, and a dash of humor.
+3. **Fast & Furious 6** (2013) - The sixth installment in the franchise brings back Dominic Toretto (Vin Diesel) and his crew for more high-stakes heists and car chases.
+4. **The Italian Job** (2001) - This remake of the classic 1969 film stars Mark Wahlberg, Charlize Theron, and Seth Green as a team of thieves who pull off an elaborate heist in Italy.
+5. **Turbulence** (1997) - A fun, over-the-top action movie starring Ray Liotta and Lauren Holly, with plenty of high-speed chases and explosions.
+
+Which one of these movies catches your eye?
+
+
+--------------------------------------------------
+Iteration: 0
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a Movie Expert. Keep your responses simple. Structure your output in a way that is easy to read and understand.
+Query: I want to watch a movie with a Superhero
+Response: A superhero movie, eh?
+
+Well, I think you've already got a great choice in mind - Megamind! It's a hilarious and action-packed animated film that spoofs the traditional superhero genre. Will Ferrell, Tina Fey, Jonah Hill, and Brad Pitt all lend their voices to this quirky cast of characters.
+
+If you're looking for more options, here are some other superhero movies you might enjoy:
+
+1. The Incredibles (2004) - Another Pixar classic that explores what it means to be a superhero.
+2. The Lego Movie (2014) - An animated adventure that features a superhero named Emmet Brickowoski.
+3. Guardians of the Galaxy (2014) - A Marvel movie that follows a misfit team of intergalactic heroes.
+4. Deadpool (2016) - A R-rated, irreverent take on the traditional superhero genre.
+5. The Avengers (2012) - A Marvel movie that brings together some of the most iconic superheroes, including Iron Man, Captain America, Thor, and more.
+
+Let me know if you have any other preferences or specific interests, and I can give you more tailored recommendations!
+
+
+--------------------------------------------------
+Iteration: 1
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a Video Librarian you want to recommend movies to others. But you don't want to spoil. Be kind and don't give away too much. Keep your responses simple and to the point.Talk about the movie's genre, plot, and main characters to arouse the interest of the user 
+Query: I want to watch a movie with a Superhero
+Response: A superhero movie, eh?
+
+Well, I think you've already got a great choice in mind - Megamind! It's an animated comedy that spoofs the traditional superhero genre. The movie follows the story of Megamind, a supervillain who tries to take over Metro City, but ultimately becomes a hero.
+
+If you're looking for more options, here are some other superhero movies you might enjoy:
+
+1. The Incredibles (2004) - Another animated superhero film that's full of action and humor.
+2. Guardians of the Galaxy (2014) - A Marvel movie that follows a group of misfit superheroes as they save the galaxy from an evil villain.
+3. Spider-Man: Into the Spider-Verse (2018) - An animated Spider-Man movie that's all about Miles Morales, a new Spider-Man who teams up with other Spideys from different dimensions to stop a threat to the multiverse.
+4. The Lego Movie (2014) - An animated adventure that features superheroes, including Batman and Superman, in a battle against an evil tyrant.
+5. Big Hero 6 (2014) - A Disney movie that follows a team of superheroes in San Fransokyo, led by a young robotics prodigy named Hiro.
+
+Let me know if you have any other preferences or specific superhero franchises you'd like to explore!
+
+
+--------------------------------------------------
+Iteration: 2
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are very knowledgeable about movies. You want to share your knowledge with others. Provide detailed information about the movie's genre, plot, and main characters. Use bullet points, lists, and other formatting to make your responses more readable.Take all the Context and ask if the user wants to know more about the movie.
+Query: I want to watch a movie with a Superhero
+Response: A superhero movie, eh?
+
+Well, I think you've already got a great choice in mind - Megamind! It's an animated comedy that spoofs the traditional superhero genre. The movie follows the story of Megamind, a supervillain who tries to take over Metro City, but ultimately becomes a hero.
+
+If you're looking for more options, here are some other superhero movies you might enjoy:
+
+1. The Incredibles (2004) - Another animated superhero comedy that's full of action and humor.
+2. Guardians of the Galaxy (2014) - A Marvel movie that follows a group of misfit superheroes as they save the galaxy from an evil alien.
+3. Deadpool (2016) - A R-rated superhero comedy that stars Ryan Reynolds as the merc with a mouth, Deadpool.
+4. The Lego Batman Movie (2017) - An animated superhero comedy that parodies the Batman franchise.
+5. Spider-Man: Into the Spider-Verse (2018) - An animated superhero movie that follows Miles Morales as he becomes the new Spider-Man.
+
+Let me know if you have any other preferences or specific genres you're interested in, and I can give you more tailored recommendations!
+
+
+--------------------------------------------------
+Iteration: 3
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a movie expert. Your primary responsibility is to assist users in discovering and learning about films. You will have context with information about the movie. Use this information to provide detailed, accurate, and engaging information about the movie. Work with bullet points, lists, and other formatting to make your responses more readable.Talk about the movie's genre, plot, and main characters to arouse the interest of the user.If there is nothing given in the Context then please under any circumstances do not provide any information. Arouse the interest of the user and ask if they want to know more about the movie.
+Query: I want to watch a movie with a Superhero
+Response: A superhero movie, eh?
+
+Well, I think you've already got a great choice in mind - Megamind! It's an animated comedy that spoofs the traditional superhero genre. The movie follows the story of Megamind, a supervillain who tries to take over Metro City, but ultimately becomes a hero.
+
+If you're looking for more options, here are some other superhero movies you might enjoy:
+
+1. The Incredibles (2004) - Another animated superhero film that's full of action and humor.
+2. Guardians of the Galaxy (2014) - A Marvel movie that follows a group of misfit superheroes as they save the galaxy from an evil alien.
+3. Spider-Man: Into the Spider-Verse (2018) - An animated Spider-Man movie that explores different dimensions and features multiple Spider-Men.
+4. The Lego Movie (2014) - An animated adventure that features a superhero named Emmet, who must stop an evil tyrant from taking over the world.
+5. Big Hero 6 (2014) - A Disney animated movie that follows a team of superheroes in San Fransokyo.
+
+Let me know if you'd like more recommendations or have any specific preferences (e.g., live-action vs. animation, Marvel vs. DC, etc.)!
+
+
+--------------------------------------------------
+Iteration: 4
+Collection: wiki_movie_plots_2048_200_mxbai
+Prompt: You are a recommender. The User want to Discover Movies or Films. Use provided Context. Structure your Output (bullet-points). Arouse the users interest. Don't Spoil. Ask if user want to now more.
+Query: I want to watch a movie with a Superhero
+Response: A superhero movie, eh?
+
+Well, I think you've already got a great choice in mind - Megamind! It's an animated comedy that spoofs the traditional superhero genre. The movie follows the story of Megamind, a supervillain who tries to take over Metro City, but ultimately becomes a hero.
+
+If you're looking for more options, here are some other superhero movies you might enjoy:
+
+1. The Incredibles (2004) - Another animated superhero film that's full of action and humor.
+2. The Lego Movie (2014) - An animated adventure that features a superhero named Emmet Brickowoski.
+3. Guardians of the Galaxy (2014) - A Marvel movie that follows a group of intergalactic heroes as they try to save the galaxy from an evil alien.
+4. Spider-Man: Into the Spider-Verse (2018) - An animated Spider-Man movie that's full of humor, action, and heart.
+5. The Avengers (2012) - A Marvel movie that brings together some of the most iconic superheroes, including Iron Man, Captain America, Thor, and more.
+
+Let me know if you have any other preferences or specific superhero characters you'd like to see in a movie!
+

@@ -1,0 +1,515 @@
+IT BEGINS
+
+--------------------------------------------------
+Iteration: 0
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a Movie Expert. Keep your responses simple. Structure your output in a way that is easy to read and understand.
+Query: Who is revealed to be the Second Coming of Jesus Christ in the movie "The Seventh Sign"?
+Response: According to the plot summary, David Bannon is actually the Second Coming of Jesus Christ.
+
+
+--------------------------------------------------
+Iteration: 1
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a Video Librarian you want to recommend movies to others. But you don't want to spoil. Be kind and don't give away too much. Keep your responses simple and to the point.Talk about the movie's genre, plot, and main characters to arouse the interest of the user 
+Query: Who is revealed to be the Second Coming of Jesus Christ in the movie "The Seventh Sign"?
+Response: According to the context information provided, David Bannon is actually the Second Coming of Jesus Christ.
+
+
+--------------------------------------------------
+Iteration: 2
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are very knowledgeable about movies. You want to share your knowledge with others. Provide detailed information about the movie's genre, plot, and main characters. Use bullet points, lists, and other formatting to make your responses more readable.Take all the Context and ask if the user wants to know more about the movie.
+Query: Who is revealed to be the Second Coming of Jesus Christ in the movie "The Seventh Sign"?
+Response: According to the context information provided, David Bannon is actually the Second Coming of Jesus Christ.
+
+
+--------------------------------------------------
+Iteration: 3
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a movie expert. Your primary responsibility is to assist users in discovering and learning about films. You will have context with information about the movie. Use this information to provide detailed, accurate, and engaging information about the movie. Work with bullet points, lists, and other formatting to make your responses more readable.Talk about the movie's genre, plot, and main characters to arouse the interest of the user.If there is nothing given in the Context then please under any circumstances do not provide any information. Arouse the interest of the user and ask if they want to know more about the movie.
+Query: Who is revealed to be the Second Coming of Jesus Christ in the movie "The Seventh Sign"?
+Response: According to the context information provided, David Bannon is actually the Second Coming of Jesus Christ.
+
+
+--------------------------------------------------
+Iteration: 4
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a recommender. The User want to Discover Movies or Films. Use provided Context. Structure your Output (bullet-points). Arouse the users interest. Don't Spoil. Ask if user want to now more.
+Query: Who is revealed to be the Second Coming of Jesus Christ in the movie "The Seventh Sign"?
+Response: According to the context information provided, David Bannon is actually the Second Coming of Jesus Christ.
+
+
+--------------------------------------------------
+Iteration: 0
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a Movie Expert. Keep your responses simple. Structure your output in a way that is easy to read and understand.
+Query: What inspired the band's name change to "The Four Seasons" in the film?
+Response: There is no band involved in this film. The title "The Four Seasons" refers to the plot of the movie, which revolves around three married couples living in New York City who take vacations together during each of the four seasons (Spring, Summer, Fall, and Winter). The title is a metaphor for the changing relationships and dynamics between the characters throughout the story.
+
+
+--------------------------------------------------
+Iteration: 1
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a Video Librarian you want to recommend movies to others. But you don't want to spoil. Be kind and don't give away too much. Keep your responses simple and to the point.Talk about the movie's genre, plot, and main characters to arouse the interest of the user 
+Query: What inspired the band's name change to "The Four Seasons" in the film?
+Response: There is no band involved in this film. The title "The Four Seasons" refers to the plot of the movie, which revolves around three married couples living in New York City who take vacations together during each of the four seasons (Spring, Summer, Fall, and Winter). The title is a metaphor for the changing relationships and dynamics between the characters throughout the story.
+
+
+--------------------------------------------------
+Iteration: 2
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are very knowledgeable about movies. You want to share your knowledge with others. Provide detailed information about the movie's genre, plot, and main characters. Use bullet points, lists, and other formatting to make your responses more readable.Take all the Context and ask if the user wants to know more about the movie.
+Query: What inspired the band's name change to "The Four Seasons" in the film?
+Response: There is no band involved in this film. The title "The Four Seasons" refers to the plot of the movie, which revolves around three married couples living in New York City who take vacations together during each of the four seasons (Spring, Summer, Fall, and Winter). The title is likely inspired by the idea that the story explores the ups and downs of relationships over the course of a year, much like the changing seasons.
+
+
+--------------------------------------------------
+Iteration: 3
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a movie expert. Your primary responsibility is to assist users in discovering and learning about films. You will have context with information about the movie. Use this information to provide detailed, accurate, and engaging information about the movie. Work with bullet points, lists, and other formatting to make your responses more readable.Talk about the movie's genre, plot, and main characters to arouse the interest of the user.If there is nothing given in the Context then please under any circumstances do not provide any information. Arouse the interest of the user and ask if they want to know more about the movie.
+Query: What inspired the band's name change to "The Four Seasons" in the film?
+Response: There is no band involved in this film. The title "The Four Seasons" refers to the plot of the movie, which revolves around three married couples living in New York City who take vacations together during each of the four seasons (Spring, Summer, Fall, and Winter). The title is likely inspired by the idea that the story takes place over the course of a year, with each season representing a significant event or turning point in the characters' lives.
+
+
+--------------------------------------------------
+Iteration: 4
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a recommender. The User want to Discover Movies or Films. Use provided Context. Structure your Output (bullet-points). Arouse the users interest. Don't Spoil. Ask if user want to now more.
+Query: What inspired the band's name change to "The Four Seasons" in the film?
+Response: There is no band involved in this film. The title "The Four Seasons" refers to the plot of the movie, which revolves around three married couples taking vacations together during each of the four seasons (Spring, Summer, Fall, and Winter). The title is likely inspired by the idea that the story explores the ups and downs of relationships over the course of a year, much like the changing seasons.
+
+
+--------------------------------------------------
+Iteration: 0
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a Movie Expert. Keep your responses simple. Structure your output in a way that is easy to read and understand.
+Query: What is the twist revealed about Screwface and his twin brother?
+Response: The twist revealed is that Screwface was actually a set of identical twin brothers, posing as one man. Despite both brothers being masterminds of Posse crimes across the United States, it was revealed that only one of them was the real Chicago Posse crime mastermind.
+
+
+--------------------------------------------------
+Iteration: 1
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a Video Librarian you want to recommend movies to others. But you don't want to spoil. Be kind and don't give away too much. Keep your responses simple and to the point.Talk about the movie's genre, plot, and main characters to arouse the interest of the user 
+Query: What is the twist revealed about Screwface and his twin brother?
+Response: The twist revealed is that Screwface was actually a set of identical twin brothers, posing as one man. Despite both brothers being masterminds of Posse crimes across the United States, it was revealed that only one of them was the real Chicago Posse crime mastermind.
+
+
+--------------------------------------------------
+Iteration: 2
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are very knowledgeable about movies. You want to share your knowledge with others. Provide detailed information about the movie's genre, plot, and main characters. Use bullet points, lists, and other formatting to make your responses more readable.Take all the Context and ask if the user wants to know more about the movie.
+Query: What is the twist revealed about Screwface and his twin brother?
+Response: The twist revealed is that Screwface was actually a set of identical twin brothers, posing as one man. Despite both brothers being masterminds of Posse crimes across the United States, it was revealed that only one of them was the real Chicago Posse crime mastermind.
+
+
+--------------------------------------------------
+Iteration: 3
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a movie expert. Your primary responsibility is to assist users in discovering and learning about films. You will have context with information about the movie. Use this information to provide detailed, accurate, and engaging information about the movie. Work with bullet points, lists, and other formatting to make your responses more readable.Talk about the movie's genre, plot, and main characters to arouse the interest of the user.If there is nothing given in the Context then please under any circumstances do not provide any information. Arouse the interest of the user and ask if they want to know more about the movie.
+Query: What is the twist revealed about Screwface and his twin brother?
+Response: The twist revealed is that Screwface was actually a set of identical twin brothers, posing as one man. Despite both brothers being masterminds of Posse crimes across the United States, it was revealed that only one of them was the real Chicago Posse crime mastermind.
+
+
+--------------------------------------------------
+Iteration: 4
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a recommender. The User want to Discover Movies or Films. Use provided Context. Structure your Output (bullet-points). Arouse the users interest. Don't Spoil. Ask if user want to now more.
+Query: What is the twist revealed about Screwface and his twin brother?
+Response: The twist revealed is that Screwface is actually a set of identical twin brothers, not just one person. Despite both brothers being masterminds of Posse crimes across the United States, it was revealed that only one of them was the real Chicago Posse crime mastermind.
+
+
+--------------------------------------------------
+Iteration: 0
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a Movie Expert. Keep your responses simple. Structure your output in a way that is easy to read and understand.
+Query: Who are the main characters in "Rainbow Brite and the Star Stealer"?
+Response: The main characters in "Rainbow Brite and the Star Stealer" are:
+
+1. Rainbow Brite (voiced by Bettina Bush)
+2. Starlite (voiced by Andre Stojka) - Rainbow's magical horse
+3. Brian (voiced by Scott Menville) - a boy who can see Rainbow and her friends on Earth
+4. Stormy (voiced by Marissa Mendenhall) - a magical girl who controls Winter with her horse, Skydancer
+5. Krys (voiced by David Mendenhall) - a boy from Spectra who helps Rainbow and Starlite
+6. The Dark Princess (voiced by Rhonda Aldrich) - the main antagonist of the movie
+
+
+--------------------------------------------------
+Iteration: 1
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a Video Librarian you want to recommend movies to others. But you don't want to spoil. Be kind and don't give away too much. Keep your responses simple and to the point.Talk about the movie's genre, plot, and main characters to arouse the interest of the user 
+Query: Who are the main characters in "Rainbow Brite and the Star Stealer"?
+Response: The main characters in "Rainbow Brite and the Star Stealer" are:
+
+1. Rainbow Brite (voiced by Bettina Bush)
+2. Starlite (voiced by Andre Stojka) - Rainbow's magical horse
+3. Brian (voiced by Scott Menville) - a boy who can see Rainbow and her friends on Earth
+4. Stormy (voiced by Marissa Mendenhall) - a magical girl who controls Winter with her horse, Skydancer
+5. Krys (voiced by David Mendenhall) - a boy from Spectra who helps Rainbow and Starlite
+6. The Dark Princess (voiced by Rhonda Aldrich) - the main antagonist of the movie
+
+
+--------------------------------------------------
+Iteration: 2
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are very knowledgeable about movies. You want to share your knowledge with others. Provide detailed information about the movie's genre, plot, and main characters. Use bullet points, lists, and other formatting to make your responses more readable.Take all the Context and ask if the user wants to know more about the movie.
+Query: Who are the main characters in "Rainbow Brite and the Star Stealer"?
+Response: The main characters in "Rainbow Brite and the Star Stealer" are:
+
+1. Rainbow Brite (voiced by Bettina Bush)
+2. Starlite (voiced by Andre Stojka) - Rainbow's magical horse
+3. Brian (voiced by Scott Menville) - a boy who can see Rainbow and her friends on Earth
+4. Stormy (voiced by Marissa Mendenhall) - a magical girl who controls Winter with her horse, Skydancer
+5. Krys (voiced by David Mendenhall) - a boy from Spectra who helps Rainbow and Starlite
+6. The Dark Princess (voiced by Rhonda Aldrich) - the main antagonist of the movie
+
+
+--------------------------------------------------
+Iteration: 3
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a movie expert. Your primary responsibility is to assist users in discovering and learning about films. You will have context with information about the movie. Use this information to provide detailed, accurate, and engaging information about the movie. Work with bullet points, lists, and other formatting to make your responses more readable.Talk about the movie's genre, plot, and main characters to arouse the interest of the user.If there is nothing given in the Context then please under any circumstances do not provide any information. Arouse the interest of the user and ask if they want to know more about the movie.
+Query: Who are the main characters in "Rainbow Brite and the Star Stealer"?
+Response: The main characters in "Rainbow Brite and the Star Stealer" are:
+
+1. Rainbow Brite (voiced by Bettina Bush)
+2. Starlite (voiced by Andre Stojka) - Rainbow's magical horse
+3. Brian (voiced by Scott Menville) - a boy who can see Rainbow and her friends on Earth
+4. Stormy (voiced by Marissa Mendenhall) - a magical girl who controls Winter with her horse, Skydancer
+5. Krys (voiced by David Mendenhall) - a boy from Spectra who helps Rainbow and Starlite
+6. The Dark Princess (voiced by Rhonda Aldrich) - the main antagonist of the movie
+
+
+--------------------------------------------------
+Iteration: 4
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a recommender. The User want to Discover Movies or Films. Use provided Context. Structure your Output (bullet-points). Arouse the users interest. Don't Spoil. Ask if user want to now more.
+Query: Who are the main characters in "Rainbow Brite and the Star Stealer"?
+Response: The main characters in "Rainbow Brite and the Star Stealer" are:
+
+1. Rainbow Brite (voiced by Bettina Bush)
+2. Starlite (voiced by Andre Stojka) - Rainbow's magical horse
+3. Brian (voiced by Scott Menville) - a boy who can see Rainbow and her friends on Earth
+4. Stormy (voiced by Marissa Mendenhall) - a magical girl who controls Winter with her horse, Skydancer
+5. Krys (voiced by David Mendenhall) - a boy from Spectra who helps Rainbow and Starlite
+6. The Dark Princess (voiced by Rhonda Aldrich) - the main antagonist of the movie
+
+
+--------------------------------------------------
+Iteration: 0
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a Movie Expert. Keep your responses simple. Structure your output in a way that is easy to read and understand.
+Query: What personal struggle does Juror 3 face that influences his final decision?
+Response: Juror 3 faces a personal struggle with his own prejudices and biases towards people from the slums, which is influenced by his upbringing in a more affluent neighborhood. He is initially swayed by Juror 10's bigoted remarks and maintains his "guilty" vote despite the overwhelming evidence presented against the prosecution's case.
+
+However, as the deliberation progresses and he sees the other jurors' perspectives and the flaws in the prosecution's case, Juror 3 begins to question his own biases. He eventually comes to realize that his initial assumption about the defendant was based on his own prejudices rather than the facts of the case.
+
+In the end, Juror 3 changes his vote to "not guilty," acknowledging that he had been influenced by his own biases and that the evidence presented did not support a conviction. This personal struggle serves as a turning point for Juror 3, allowing him to overcome his initial prejudices and make a more informed decision based on the facts of the case.
+
+
+--------------------------------------------------
+Iteration: 1
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a Video Librarian you want to recommend movies to others. But you don't want to spoil. Be kind and don't give away too much. Keep your responses simple and to the point.Talk about the movie's genre, plot, and main characters to arouse the interest of the user 
+Query: What personal struggle does Juror 3 face that influences his final decision?
+Response: Juror 3 faces a personal struggle with his own prejudices and biases towards people from low-income backgrounds, which is influenced by his upbringing in a wealthy neighborhood. He is initially swayed by the testimony of the woman who saw the murder from across the street, but as the deliberation progresses and he hears more evidence, he begins to question his initial assumption that the defendant is guilty.
+
+Juror 3's personal struggle is revealed when Juror 10 launches into a bigoted rant about people from slums not being trustworthy. Juror 4 responds by telling Juror 10 to sit down and not speak again, which suggests that Juror 3 may have been uncomfortable with the direction of the conversation.
+
+Ultimately, Juror 3's personal struggle is overcome as he comes to realize that his initial assumptions were wrong and that the defendant may be innocent. He changes his vote to "not guilty" along with the other jurors, indicating that he has put aside his biases and made a decision based on the evidence presented in court.
+
+
+--------------------------------------------------
+Iteration: 2
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are very knowledgeable about movies. You want to share your knowledge with others. Provide detailed information about the movie's genre, plot, and main characters. Use bullet points, lists, and other formatting to make your responses more readable.Take all the Context and ask if the user wants to know more about the movie.
+Query: What personal struggle does Juror 3 face that influences his final decision?
+Response: Juror 3 is not explicitly shown to have a personal struggle that influences his final decision. He remains one of the three dissenting jurors who ultimately votes "guilty" throughout the deliberation process. It's possible that he may have had some internal conflict or bias, but it is not explicitly stated in the context provided.
+
+
+--------------------------------------------------
+Iteration: 3
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a movie expert. Your primary responsibility is to assist users in discovering and learning about films. You will have context with information about the movie. Use this information to provide detailed, accurate, and engaging information about the movie. Work with bullet points, lists, and other formatting to make your responses more readable.Talk about the movie's genre, plot, and main characters to arouse the interest of the user.If there is nothing given in the Context then please under any circumstances do not provide any information. Arouse the interest of the user and ask if they want to know more about the movie.
+Query: What personal struggle does Juror 3 face that influences his final decision?
+Response: Juror 3 is not explicitly shown to have a personal struggle that influences his final decision. He remains one of the dissenting jurors who ultimately votes "guilty" along with Jurors 4 and 10. It's possible that he may have had some internal conflict or bias, but it's not explicitly stated in the context provided.
+
+
+--------------------------------------------------
+Iteration: 4
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a recommender. The User want to Discover Movies or Films. Use provided Context. Structure your Output (bullet-points). Arouse the users interest. Don't Spoil. Ask if user want to now more.
+Query: What personal struggle does Juror 3 face that influences his final decision?
+Response: Juror 3 is not explicitly shown to have a personal struggle that influences his final decision. He remains one of the dissenting jurors throughout the deliberation, consistently voting "guilty" and refusing to change his mind.
+
+It's possible that Juror 3 may be influenced by his own biases or preconceptions about the defendant or the case, but this is not explicitly shown in the film. His character is largely defined by his stubbornness and refusal to consider alternative perspectives, rather than any personal struggle or emotional turmoil.
+
+
+--------------------------------------------------
+Iteration: 0
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a Movie Expert. Keep your responses simple. Structure your output in a way that is easy to read and understand.
+Query: Recommend an action movie
+Response: Based on your interest in "The Perfect Weapon", I'd recommend another classic action movie from the same era. How about... "Showdown in Little Tokyo" (1991) starring Dolph Lundgren and Brandon Lee?
+
+This film combines martial arts, gunplay, and a dash of humor, with a similar blend of revenge and redemption themes. Dolph Lundgren plays Chris Kenneally, an American karate expert who returns to his father's old neighborhood in Little Tokyo to take on the Yakuza gang that killed his father.
+
+The movie features plenty of intense action sequences, including hand-to-hand combat, gunfights, and a memorable showdown between Kenneally and the main villain. Brandon Lee, known for his roles in "Rapid Fire" and "The Crow", plays the role of Johnny Mo, a Yakuza enforcer who becomes an unlikely ally to Kenneally.
+
+If you enjoy "The Perfect Weapon"'s mix of martial arts and revenge-driven action, I think you'll find "Showdown in Little Tokyo" to be a similarly entertaining ride!
+
+
+--------------------------------------------------
+Iteration: 1
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a Video Librarian you want to recommend movies to others. But you don't want to spoil. Be kind and don't give away too much. Keep your responses simple and to the point.Talk about the movie's genre, plot, and main characters to arouse the interest of the user 
+Query: Recommend an action movie
+Response: Based on your interest in "The Perfect Weapon", I'd recommend another classic action movie from the same era. How about... "Showdown in Little Tokyo" (1991) starring Dolph Lundgren and Brandon Lee?
+
+This film combines martial arts, gunplay, and a dash of humor, with a similar blend of revenge and redemption themes. Dolph Lundgren plays Chris Kenneally, an American karate expert who returns to his father's old neighborhood in Little Tokyo to settle a score with the Yakuza.
+
+The movie features plenty of intense action sequences, including hand-to-hand combat, gunfights, and car chases. Brandon Lee, unfortunately, was killed during filming, but his performance is still memorable and adds to the film's emotional impact.
+
+Give it a try if you enjoy classic 90s action movies with a mix of martial arts and gunplay!
+
+
+--------------------------------------------------
+Iteration: 2
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are very knowledgeable about movies. You want to share your knowledge with others. Provide detailed information about the movie's genre, plot, and main characters. Use bullet points, lists, and other formatting to make your responses more readable.Take all the Context and ask if the user wants to know more about the movie.
+Query: Recommend an action movie
+Response: Based on your interest in "The Perfect Weapon", I'd recommend another classic action movie from the same era. How about "Showdown in Little Tokyo" (1991) starring Dolph Lundgren and Brandon Lee?
+
+This film combines martial arts, gunplay, and a dash of humor, with a similar blend of revenge and redemption themes. Dolph Lundgren plays a tough-as-nails Japanese-American detective who seeks to avenge his father's death at the hands of a Yakuza crime lord (played by Cary-Hiroyuki Tagawa). Brandon Lee co-stars as his partner in this action-packed ride.
+
+Give it a try if you enjoy:
+
+* Martial arts and hand-to-hand combat
+* Gunfights and explosive action sequences
+* A mix of humor and drama
+* A revenge story with a strong protagonist
+
+Let me know if you'd like more recommendations or have any specific preferences!
+
+
+--------------------------------------------------
+Iteration: 3
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a movie expert. Your primary responsibility is to assist users in discovering and learning about films. You will have context with information about the movie. Use this information to provide detailed, accurate, and engaging information about the movie. Work with bullet points, lists, and other formatting to make your responses more readable.Talk about the movie's genre, plot, and main characters to arouse the interest of the user.If there is nothing given in the Context then please under any circumstances do not provide any information. Arouse the interest of the user and ask if they want to know more about the movie.
+Query: Recommend an action movie
+Response: Based on your interest in "The Perfect Weapon", I'd recommend another classic action movie from the same era. How about "Showdown in Little Tokyo" (1991) starring Dolph Lundgren and Brandon Lee?
+
+This film combines martial arts, gunplay, and a dash of humor, with a similar tone to "The Perfect Weapon". It's an underappreciated gem that has gained cult status over the years.
+
+In "Showdown in Little Tokyo", Dolph Lundgren plays Detective Chris Kenneally, who must take down a powerful Yakuza leader (played by Cary-Hiroyuki Tagawa) and his henchmen. The film features plenty of intense action sequences, including hand-to-hand combat and shootouts.
+
+If you enjoy "The Perfect Weapon" for its blend of martial arts, revenge themes, and over-the-top action, I think you'll appreciate "Showdown in Little Tokyo" for similar reasons!
+
+
+--------------------------------------------------
+Iteration: 4
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a recommender. The User want to Discover Movies or Films. Use provided Context. Structure your Output (bullet-points). Arouse the users interest. Don't Spoil. Ask if user want to now more.
+Query: Recommend an action movie
+Response: Based on your interest in "The Perfect Weapon", I'd recommend another classic action movie from the same era. How about "Showdown in Little Tokyo" (1991) starring Dolph Lundgren and Brandon Lee?
+
+This film combines martial arts, gunplay, and a dash of humor, with a similar blend of revenge and redemption themes. Dolph Lundgren plays an LA cop who seeks vengeance against a Japanese gangster (Brandon Lee) for killing his friend.
+
+Give it a try if you enjoy:
+
+* 80s/90s action movies
+* Martial arts and gunplay
+* A mix of humor and drama
+* Dolph Lundgren's signature tough-guy persona
+
+Let me know if you'd like more recommendations or have specific preferences!
+
+
+--------------------------------------------------
+Iteration: 0
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a Movie Expert. Keep your responses simple. Structure your output in a way that is easy to read and understand.
+Query: I want to watch a movie with fast cars and explosions
+Response: Sounds like you're in the mood for an adrenaline-fueled action flick! Based on your request, I'd recommend the 2015 film "Focus" starring Will Smith. It's an action-comedy that features high-speed car chases, intense racing scenes, and plenty of explosive moments.
+
+In this movie, Nicky (Will Smith) is a professional con artist who teams up with a young grifter named Jess (Margot Robbie). As they navigate the world of high-stakes heists, they find themselves in the midst of a thrilling motorsport championship. With its blend of humor, action, and romance, "Focus" is sure to deliver on your request for fast cars and explosions!
+
+Would you like me to suggest more movies that fit your criteria?
+
+
+--------------------------------------------------
+Iteration: 1
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a Video Librarian you want to recommend movies to others. But you don't want to spoil. Be kind and don't give away too much. Keep your responses simple and to the point.Talk about the movie's genre, plot, and main characters to arouse the interest of the user 
+Query: I want to watch a movie with fast cars and explosions
+Response: Sounds like you're in the mood for an action-packed thrill ride!
+
+Based on your request, I think I can recommend a movie that fits the bill: "Focus" (2015) starring Will Smith and Margot Robbie.
+
+This movie has it all:
+
+* Fast cars: High-speed racing sequences and sleek sports cars
+* Explosions: Plenty of explosive moments, including a dramatic car chase and some intense action scenes
+* Action-packed plot: A complex scheme involving motorsport team owners, rivalries, and double-crossing
+
+The movie follows Nicky (Will Smith), a professional con artist who teams up with Jess (Margot Robbie) to pull off a heist. As they navigate the world of high-stakes racing and deception, things get intense, and you'll be on the edge of your seat!
+
+Give it a try if you're in the mood for some adrenaline-fueled fun!
+
+
+--------------------------------------------------
+Iteration: 2
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are very knowledgeable about movies. You want to share your knowledge with others. Provide detailed information about the movie's genre, plot, and main characters. Use bullet points, lists, and other formatting to make your responses more readable.Take all the Context and ask if the user wants to know more about the movie.
+Query: I want to watch a movie with fast cars and explosions
+Response: Sounds like you're in the mood for an action-packed thrill ride!
+
+Based on your request, I think I can recommend a movie that fits the bill: "Focus" (2015) starring Will Smith and Margot Robbie.
+
+This movie has it all:
+
+* Fast cars: High-speed chases, street racing, and high-stakes motorsport events.
+* Explosions: Plenty of explosive moments, including a dramatic finale that will keep you on the edge of your seat.
+* Action-packed plot: A complex web of deceit, betrayal, and revenge unfolds as Nicky (Will Smith) navigates the world of professional motorsports.
+
+The movie also features stunning locations, impressive stunts, and a dash of humor. Will Smith and Margot Robbie deliver strong performances, making their characters' complicated relationship a compelling aspect of the story.
+
+So, if you're ready for a fast-paced, adrenaline-fueled ride with plenty of excitement and suspense, "Focus" might be just the ticket!
+
+What do you think? Are you up for this action-packed adventure?
+
+
+--------------------------------------------------
+Iteration: 3
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a movie expert. Your primary responsibility is to assist users in discovering and learning about films. You will have context with information about the movie. Use this information to provide detailed, accurate, and engaging information about the movie. Work with bullet points, lists, and other formatting to make your responses more readable.Talk about the movie's genre, plot, and main characters to arouse the interest of the user.If there is nothing given in the Context then please under any circumstances do not provide any information. Arouse the interest of the user and ask if they want to know more about the movie.
+Query: I want to watch a movie with fast cars and explosions
+Response: Sounds like you're in the mood for some high-octane action!
+
+Based on your request, I think I can recommend a movie that fits the bill: "Focus" (2015) starring Will Smith and Margot Robbie.
+
+This movie has it all:
+
+* Fast cars: The film features high-speed racing scenes, including Formula 1 and street racing.
+* Explosions: There are plenty of intense action sequences, including car chases, explosions, and hand-to-hand combat.
+* A dash of romance: The movie also explores the complex relationship between Nicky (Will Smith) and Jess (Margot Robbie).
+
+"Focus" is an action-packed thriller that's sure to get your adrenaline pumping. Give it a try!
+
+Would you like more recommendations or have any specific preferences (e.g., genre, era, etc.)?
+
+
+--------------------------------------------------
+Iteration: 4
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a recommender. The User want to Discover Movies or Films. Use provided Context. Structure your Output (bullet-points). Arouse the users interest. Don't Spoil. Ask if user want to now more.
+Query: I want to watch a movie with fast cars and explosions
+Response: Sounds like you're in the mood for some high-octane action!
+
+Based on your request, I think I can recommend a movie that fits the bill: "Focus" (2015) starring Will Smith and Margot Robbie.
+
+This movie has it all:
+
+* Fast cars: The film features high-speed racing scenes, including Formula 1 and street racing.
+* Explosions: There are plenty of intense action sequences with explosions, chases, and hand-to-hand combat.
+* A dash of romance: The movie also explores the complex relationship between Nicky (Will Smith) and Jess (Margot Robbie).
+
+"Focus" is an action-packed thriller that will keep you on the edge of your seat. Give it a try!
+
+Would you like more recommendations or have any specific preferences (e.g., genre, era, etc.)?
+
+
+--------------------------------------------------
+Iteration: 0
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a Movie Expert. Keep your responses simple. Structure your output in a way that is easy to read and understand.
+Query: I want to watch a movie with a Superhero
+Response: You're in luck! I've got just the thing for you - "Megamind" (2010) is a hilarious and action-packed animated superhero comedy that's sure to entertain!
+
+Here's why:
+
+* It's an American production, so you can expect a fun and quirky take on the superhero genre.
+* The movie features Will Ferrell, Tina Fey, Jonah Hill, David Cross, and Brad Pitt in the voice cast - what more could you ask for?
+* The plot is clever and full of twists and turns. Megamind, the supervillain, creates a new superhero (Titan) to fight, but things don't quite go as planned.
+* The animation is top-notch, with vibrant colors and engaging visuals that will keep you on the edge of your seat.
+
+So, what do you say? Are you ready to join forces with Megamind and save the day?
+
+Let me know if you have any other preferences or specific superhero movies you'd like to watch!
+
+
+--------------------------------------------------
+Iteration: 1
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a Video Librarian you want to recommend movies to others. But you don't want to spoil. Be kind and don't give away too much. Keep your responses simple and to the point.Talk about the movie's genre, plot, and main characters to arouse the interest of the user 
+Query: I want to watch a movie with a Superhero
+Response: You're in luck! I've got just the thing for you - "Megamind" (2010) is a hilarious and action-packed animated superhero comedy that's sure to delight!
+
+Here are some key details about the movie:
+
+* Release year: 2010
+* Title: Megamind
+* Origin ethnicity: American
+* Plot length: 4037
+
+The story follows Megamind, a supervillain who has been fighting his arch-nemesis Metro Man for dominance of Metro City. When Metro Man is killed, Megamind takes control of the city, but soon finds himself bored and without purpose.
+
+To spice things up, he creates a new superhero, Titan (played by Jonah Hill), to fight against him. However, things take an unexpected turn when Roxanne Ritchi (Tina Fey) becomes involved, and Megamind finds himself falling for her.
+
+The movie features a talented voice cast, including Will Ferrell as the titular character, Brad Pitt as Metro Man, and David Cross as Minion. It's a fun, lighthearted romp that's perfect for anyone looking for a superhero fix with a comedic twist!
+
+So, are you ready to join Megamind on his hilarious adventures?
+
+
+--------------------------------------------------
+Iteration: 2
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are very knowledgeable about movies. You want to share your knowledge with others. Provide detailed information about the movie's genre, plot, and main characters. Use bullet points, lists, and other formatting to make your responses more readable.Take all the Context and ask if the user wants to know more about the movie.
+Query: I want to watch a movie with a Superhero
+Response: You're in luck! I've got just the thing for you - "Megamind" (2010) is a hilarious and action-packed animated superhero comedy that's sure to entertain!
+
+Here are some key details about the movie:
+
+* Release year: 2010
+* Title: Megamind
+* Origin ethnicity: American
+* Plot length: 4037
+
+The story follows Megamind, a supervillain who has been fighting his arch-nemesis Metro Man for dominance of Metro City. When Metro Man is killed, Megamind takes control of the city, but soon finds himself bored and without purpose.
+
+To spice things up, he creates a new superhero, Titan (played by Jonah Hill), to fight against him. However, things take an unexpected turn when Titan starts to develop feelings for Roxanne Ritchi (voiced by Tina Fey), a reporter who's trying to uncover the truth behind Megamind's identity.
+
+The movie features a talented voice cast, including Will Ferrell as Megamind and Brad Pitt as Metro Man. It's a fun, lighthearted romp that pokes fun at traditional superhero tropes while still delivering plenty of action and humor.
+
+So, are you ready to join the battle between good and evil?
+
+
+--------------------------------------------------
+Iteration: 3
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a movie expert. Your primary responsibility is to assist users in discovering and learning about films. You will have context with information about the movie. Use this information to provide detailed, accurate, and engaging information about the movie. Work with bullet points, lists, and other formatting to make your responses more readable.Talk about the movie's genre, plot, and main characters to arouse the interest of the user.If there is nothing given in the Context then please under any circumstances do not provide any information. Arouse the interest of the user and ask if they want to know more about the movie.
+Query: I want to watch a movie with a Superhero
+Response: A superhero movie sounds like a great choice!
+
+Based on the context information you provided earlier, I think you might enjoy watching "Megamind" (2010). It's an animated comedy-superhero film that tells the story of Megamind, a supervillain who fights against the city's hero, Metro Man. The movie has a unique twist, as Megamind becomes bored with his life after defeating Metro Man and must find a new challenge to give his life meaning.
+
+The movie features an all-star voice cast, including Will Ferrell, Tina Fey, Jonah Hill, David Cross, and Brad Pitt. It's a fun and lighthearted film that pokes fun at traditional superhero tropes while still delivering plenty of action and humor.
+
+Would you like to watch "Megamind" or would you prefer another superhero movie?
+
+
+--------------------------------------------------
+Iteration: 4
+Collection: wiki_movie_plots_512_50_mxbai
+Prompt: You are a recommender. The User want to Discover Movies or Films. Use provided Context. Structure your Output (bullet-points). Arouse the users interest. Don't Spoil. Ask if user want to now more.
+Query: I want to watch a movie with a Superhero
+Response: A superhero movie it is!
+
+Considering you're interested in watching a movie with a superhero, I think "Megamind" (2010) would be an excellent choice! It's a fun and quirky animated film that explores the life of a supervillain who becomes bored without a worthy opponent.
+
+The movie features Will Ferrell as the voice of Megamind, a brilliant but misunderstood villain who tries to fill the void left by his arch-nemesis, Metro Man. With a talented cast, including Tina Fey and Brad Pitt, "Megamind" is a hilarious and action-packed ride that's sure to entertain!
+
+So, what do you say? Are you ready to join Megamind on his adventures and see if he can find meaning in his life without a superhero to fight?
+
+Let me know when you're ready to start the movie!
+
